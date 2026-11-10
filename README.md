@@ -98,3 +98,4 @@ Profissional com sólida atuação em **Inteligência de Negócios (BI)**, **Eng
 <div align="center">
   <sub>Desenvolvido com foco em alta performance técnica e impacto real de negócio.</sub>
 </div>
+
